@@ -12,6 +12,19 @@ img{
   border-radius: 50%;
 }
 
+button{
+  width: 50%;
+  height: 50px;
+  margin-top: 20px;
+  outline:none;
+  color: #fff6f3;
+  background-color: #fd8485;
+  border: none;
+  border-radius:10px;
+  transition-duration: 0.1s;
+
+}
+
 #canvNav{
   text-align: center;
 }
@@ -58,4 +71,12 @@ img{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+button:hover{
+  background-color: #FD9C9C;
+}
+
+button:active{
+  background-color: #CA6969;
 }
