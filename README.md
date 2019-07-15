@@ -1,3 +1,3 @@
-# The-Beverage.github.io
+# JoshMoule.github.io
 Using githubs free domain name
-site can be found at https://the-beverage.github.io/
+site can be found at https://JoshMoule.github.io/
